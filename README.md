@@ -63,12 +63,32 @@
 ## Table of Contents
 
 - [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Configuration](#configuration)
+    - [Installation](#installation)
+    - [Deployment](#deployment)
+- [Specific Project Sections](#specific-project-sections)
+- [Resources](#resources)
 - [License](#license)
 - [Credits](#credits)
 
 ## Getting Started
 
 This section should contain a list of steps to get your project up and running.
+- You can break this section down into further subsections if you want (such as below: Dependencies, Configuration, Running Locally, Deployment, etc.).
+- Otherwise, you can just include a list of steps to get your project up and running under Getting Started.
+
+### Dependencies
+
+- This section should contain a list of dependencies for your project.
+
+### Configuration
+
+- This section should contain a list of steps to configure your project.
+
+### Installation
+
+- This section should contain a list of steps to install your project.
 - Utilize code blocks to show the commands needed to run your project.
 - e.g.
     1. Clone this repository.
@@ -78,6 +98,27 @@ This section should contain a list of steps to get your project up and running.
         ```bash
         python manage.py runserver
         ```
+
+### Deployment
+
+- This section should contain a list of steps to deploy your project.
+
+## Specific Project Sections
+
+There should be a number of sections here that correspond to important aspects of your project.
+- Do not name this section "Specific Project Sections".
+- e.g. "API", "Database", "Deployment", "Testing", etc.
+
+## Resources
+
+This section should contain a list of resources that you used to create your project.
+
+Below are some external resources I found helpful when creating **My Project**:
+
+- [Python](https://www.python.org/) - An interpreted, high-level and general-purpose programming language.
+- [Plotly](https://plotly.com/python/) - A Python graphing library that makes interactive, publication-quality graphs online.
+- [Django](https://www.djangoproject.com/) - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+- [Pandas](https://pandas.pydata.org/) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
 ## License
 
