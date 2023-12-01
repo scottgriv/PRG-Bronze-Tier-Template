@@ -52,7 +52,7 @@
                             <p><b><a href="https://github.com/scottgriv/PRG-Silver-Tier-Template">Silver Tier Template</a></b></p>
                         </td>
                         <td align="center">
-                        <p align="center"><i>You are here.</i></p>
+                        <p align="center"><i>You are here</i></p>
                             <a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template"><img src="./docs/images/icon-bronze-rounded.png" width="100"></a>
                             <br>
                             <p><b><a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template">Bronze Tier Template</a></b></p>
